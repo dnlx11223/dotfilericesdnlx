@@ -33,7 +33,7 @@ mas em outras distribuiçoes precisam de ajuste antes
 Clone o repositório:
 
 ```bash
-git clone https://github.com/danielruan133-art/dotfilericesdnlx.git
+git clone https://github.com/dnlx11223/dotfilericesdnlx.git
 cd dotfilesricednlx
 cd dotfile
 chmod +x install.sh
