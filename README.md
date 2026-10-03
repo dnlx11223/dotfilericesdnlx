@@ -34,7 +34,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/dnlx11223/dotfilericesdnlx.git
-cd dotfilesricednlx
+cd dotfilericesdnlx
 cd dotfile
 chmod +x install.sh
 ./install.sh
